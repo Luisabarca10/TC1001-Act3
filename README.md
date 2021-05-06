@@ -13,6 +13,8 @@ movimiento con las flechas.
 ## contribuciones
 
 #### [Eduard Vercaemer](https://github.com/eduardvercaemer)
+- mapa definido en strings
+- nuevo mapa
 
 #### [Luis Abarca](https://github.com/Luisabarca10)
 

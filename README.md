@@ -15,9 +15,10 @@ movimiento con las flechas.
 #### [Eduard Vercaemer](https://github.com/eduardvercaemer)
 - mapa definido en strings
 - nuevo mapa
+- mejor elección de camino para fantasmas
 
 #### [Luis Abarca](https://github.com/Luisabarca10)
-
+- aumentar velocidad de fantasmas
 
 ## referencias
 
